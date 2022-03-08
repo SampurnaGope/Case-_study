@@ -1,0 +1,17 @@
+.copy_right_footer {
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(241, 241, 241);
+    line-height: 3;
+    text-align: center;
+    
+  }
+
+  .test_image_and_results {
+      background-color: grey;
+      padding-bottom: 6%;
+      margin-top: 6%;
+  }
+
